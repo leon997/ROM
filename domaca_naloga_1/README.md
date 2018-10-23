@@ -35,24 +35,24 @@
 
 
 
-### Uèni list - Raèunanje s koreni.pdf(https://www.sc-nm.si/sss/si/file/download/827_d73e71be4845/U%C4%8Dni%20list%20-%20Ra%C4%8Dunanje%20s%20koreni.pdf)
+### [Uèni list - Raèunanje s koreni.pdf](https://www.sc-nm.si/sss/si/file/download/827_d73e71be4845/U%C4%8Dni%20list%20-%20Ra%C4%8Dunanje%20s%20koreni.pdf)
 
 - (8) leon997
 
 - ...
 
-### Uèni list - Potence z racionalnim eksponentom.pdf(https://www.sc-nm.si/sss/si/file/download/828_6210b4708ab3/U%C4%8Dni%20list%20-%20Potence%20z%20racionalnim%20eksponentom.pdf)
+### [Uèni list - Potence z racionalnim eksponentom.pdf](https://www.sc-nm.si/sss/si/file/download/828_6210b4708ab3/U%C4%8Dni%20list%20-%20Potence%20z%20racionalnim%20eksponentom.pdf)
 
 - (8) leon997
 
 
-### Uèni list - Kvadratna enaèba.pdf(https://www.sc-nm.si/sss/si/file/download/761_c78a25b65160/U%C4%8Dni%20list%20-%20Kvadratna%20ena%C4%8Dba.pdf)
+### [Uèni list - Kvadratna enaèba.pdf](https://www.sc-nm.si/sss/si/file/download/761_c78a25b65160/U%C4%8Dni%20list%20-%20Kvadratna%20ena%C4%8Dba.pdf)
 
 - (8) leon997
 
 
 
-### Uèni list - Kvadratna funkcija.pdf(https://www.sc-nm.si/sss/file/open/763_ef3adea10a46/U%C4%8Dni%20list%20-%20Kvadratna%20funkcija.pdf)
+### [Uèni list - Kvadratna funkcija.pdf](https://www.sc-nm.si/sss/file/open/763_ef3adea10a46/U%C4%8Dni%20list%20-%20Kvadratna%20funkcija.pdf)
 
 - (8) leon997
 

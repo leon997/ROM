@@ -1,18 +1,8 @@
-# Rezervacije 1. domaèih nalog
+# Rezervirane imam naslednje naloge:
 
-Vsak študent naj si rezervira 10 nalog iz razliènih sklopov nalog.
-Naloge se nahajajo na spletni povezavi
-https://www.sc-nm.si/sss/aktivnosti/gradiva/mat
-Nalogo si rezerviraš tako, da vpišeš alinejo oblike. Vsako nalogo si lahko rezervira samo eden študent (t.j. rešujemo razliène naloge). Èe zmanjka nalog, odprite "Issue" na repozitoriju in bomo dodali nove. Èe poznate še kako zanimivo spletno zbirko nalog za srednjo šolo, jo seveda lahko predlagate.
-Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti razliènih stopenj ter da vkljuèujejo tako poenostavljanje izrazov, kot reševanje enaèb in tudi risanje (grafov, likov, teles, ...)
 
-Èe bo še kdo sproti prijazen in nad naslov uènega lista dodal še direktno povezavo (tako kot je narejeno v 1. primeru), mu bomo pa še vsi zelo hvaležni :)
 
-```
-- (št.naloge) uporabniško_ime
-```
-
-### [Uèni list - Naravna in cela števila.pdf](https://www.sc-nm.si/sss/si/file/download/861_0affa8c3752b/U%C4%8Dni%20list%20-%20Naravna%20in%20cela%20%C5%A1tevila.pdf)
+### [UÃ¨ni list - Naravna in cela Å¡tevila.pdf](https://www.sc-nm.si/sss/si/file/download/861_0affa8c3752b/U%C4%8Dni%20list%20-%20Naravna%20in%20cela%20%C5%A1tevila.pdf)
 - (1) uporabnisko_ime_1
 - (2) AliGremLahkoNaWC
 - ...
@@ -21,7 +11,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti razliènih st
 - (8) leon997
 - (9) KonecVaj
 
-### Uèni list - Deljivost.pdf
+### UÃ¨ni list - Deljivost.pdf
 - (1) uporabnisko_ime_1
 - (2) AliGremLahkoNaWC
 - ...
@@ -31,14 +21,14 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti razliènih st
 - (9) KonecVaj
 
 
-### Uèni list - Potence.pdf
+### UÃ¨ni list - Potence.pdf
 - (1) KlaraKosec
 - (2) AliGremLahkoNaWC
 - (3) KonecVaj
 - ...
 - 
 
-### Uèni list - Raèunanje z izrazi.pdf
+### UÃ¨ni list - RaÃ¨unanje z izrazi.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - (8) leon997
@@ -46,32 +36,32 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti razliènih st
 
 - ...
 
-### Uèni list - Racionalna števila.pdf
+### UÃ¨ni list - Racionalna Å¡tevila.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - (8) leon997
 
 - ...
 
-### Uèni list - Decimalna števila.pdf
+### UÃ¨ni list - Decimalna Å¡tevila.pdf
 - (1) AliGremLahkoNaWC
 - (2) KlaraKosec
 - ...
 
-### Uèni list - Sorazmerja in odstotki.pdf
+### UÃ¨ni list - Sorazmerja in odstotki.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - (8) leon997
 
 - ...
 
-### Uèni list - Realna števila.pdf
+### UÃ¨ni list - Realna Å¡tevila.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - (3) KonecVaj
 - ...
 
-### Uèni list - Linearna enaèba.pdf
+### UÃ¨ni list - Linearna enaÃ¨ba.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - (8) leon997
@@ -79,46 +69,46 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti razliènih st
 
 - ...
 
-### Uèni list - Pravokotni koordinatni sistem.pdf
+### UÃ¨ni list - Pravokotni koordinatni sistem.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - ...
 
-### Uèni list - Linearna funkcija.pdf
+### UÃ¨ni list - Linearna funkcija.pdf
 - (1) uporabnisko_ime_1
 - (2)
 - ...
 
-### Uèni list - Sistemi linearnih enaèb.pdf
+### UÃ¨ni list - Sistemi linearnih enaÃ¨b.pdf
 - (1) uporabnisko_ime_1
 - (2) 
 - ...
 
-### Uèni list - Geometrija.pdf
+### UÃ¨ni list - Geometrija.pdf
 - (1) uporabnisko_ime_1
 - (2)
 - ...
 
-### Uèni list - Kotne funkcije v pravokotnem trikotniku.pdf
+### UÃ¨ni list - Kotne funkcije v pravokotnem trikotniku.pdf
 - (1) uporabnisko_ime_1
 - (2) 
 - ...
 
-### Uèni list - Raèunanje s koreni.pdf
+### UÃ¨ni list - RaÃ¨unanje s koreni.pdf
 - (1) uporabnisko_ime_1
 - (2) 
 - (8) leon997
 
 - ...
 
-### Uèni list - Potence z racionalnim eksponentom.pdf
+### UÃ¨ni list - Potence z racionalnim eksponentom.pdf
 - (1) uporabnisko_ime_1
 - (2) 
 - (8) leon997
 
 - ...
 
-### Uèni list - Kvadratna enaèba.pdf
+### UÃ¨ni list - Kvadratna enaÃ¨ba.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - (8) leon997
@@ -126,7 +116,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti razliènih st
 
 - ...
 
-### Uèni list - Kvadratna funkcija.pdf
+### UÃ¨ni list - Kvadratna funkcija.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - (8) leon997
@@ -134,110 +124,110 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti razliènih st
 
 - ...
 
-### Uèni list - Plošèine geometrijskih likov.pdf
+### UÃ¨ni list - PloÅ¡Ã¨ine geometrijskih likov.pdf
 
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
-### Uèni list - Geometrijska telesa.pdf
+### UÃ¨ni list - Geometrijska telesa.pdf
 - (1) uporabnisko_ime_1
 - (2) AliGremLahkoNaWC
 - ...
 
-### Uèni list - Eksponentna funkcija in enaèba.pdf
+### UÃ¨ni list - Eksponentna funkcija in enaÃ¨ba.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
-### Uèni list - Logaritem - 1.pdf
+### UÃ¨ni list - Logaritem - 1.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - (2) KonecVaj
 - ...
 
-### Uèni list - Logaritem - 2.pdf
+### UÃ¨ni list - Logaritem - 2.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
-### Uèni list - Polinomi - 1.pdf
+### UÃ¨ni list - Polinomi - 1.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
-### Uèni list - Polinomi - 2.pdf
+### UÃ¨ni list - Polinomi - 2.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
-### Uèni list - Racionalna funkcija - 1.pdf
+### UÃ¨ni list - Racionalna funkcija - 1.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
-### Uèni list - Racionalna funkcija - 2.pdf
+### UÃ¨ni list - Racionalna funkcija - 2.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
-### Uèni list - Statistika.pdf
+### UÃ¨ni list - Statistika.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
-### Uèni list - Kotne funkcije - 1.pdf
+### UÃ¨ni list - Kotne funkcije - 1.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
-### Uèni list - Kotne funkcije - 2.pdf
+### UÃ¨ni list - Kotne funkcije - 2.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
-### Uèni list - Lastnosti funkcij.pdf
+### UÃ¨ni list - Lastnosti funkcij.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
-### Uèni list - Odvod - 1.pdf
+### UÃ¨ni list - Odvod - 1.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - (3) KonecVaj
 - ...
 
-### Uèni list - Odvod - 2.pdf
+### UÃ¨ni list - Odvod - 2.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
-### Uèni list - Zaporedja.pdf
+### UÃ¨ni list - Zaporedja.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
-### Uèni list - Aritmetièna zaporedja.pdf
+### UÃ¨ni list - AritmetiÃ¨na zaporedja.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
-### Uèni list - Geometrijska zaporedja.pdf
+### UÃ¨ni list - Geometrijska zaporedja.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
-### Uèni list - Kombinatorika in verjetnost.pdf
+### UÃ¨ni list - Kombinatorika in verjetnost.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
-### Uèni list - Kompleksna števila.pdf
+### UÃ¨ni list - Kompleksna Å¡tevila.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
-### Uèni list - Integral.pdf
+### UÃ¨ni list - Integral.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...

@@ -39,7 +39,7 @@
 
 - (8) leon997
 
-- ...
+
 
 ### [Uèni list - Potence z racionalnim eksponentom.pdf](https://www.sc-nm.si/sss/si/file/download/828_6210b4708ab3/U%C4%8Dni%20list%20-%20Potence%20z%20racionalnim%20eksponentom.pdf)
 
